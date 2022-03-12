@@ -1,5 +1,5 @@
 --- 
-title: "Les minéraux d'oswaldo"
+title: "Le Test d'Oswaldo"
 author: "Oswaldo Forey"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
