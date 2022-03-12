@@ -1,6 +1,6 @@
 --- 
-title: "Making free books with RStudio’s RMarkdown & Bookdown"
-author: "Julie Lowndes"
+title: "Les minéraux d'oswaldo"
+author: "Oswaldo Forey"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 # output: bookdown::gitbook
