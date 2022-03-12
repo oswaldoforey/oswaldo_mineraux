@@ -1,5 +1,3 @@
 welcome
 learn-all-about-bookdown
-article-1
-chapitre-3
 write
